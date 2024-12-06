@@ -1,6 +1,7 @@
 ## Balancing Alignment and Uniformity (BAU) 
 
-Official PyTorch implementation of Generalizable Person Re-identification via Balancing Alignment and Uniformity (NeurIPS 2024).
+Official PyTorch implementation of *Generalizable Person Re-identification via Balancing Alignment and Uniformity* (NeurIPS 2024).
+[[arXiv](https://arxiv.org/abs/2411.11471)] [[Project](https://sgvr.kaist.ac.kr/~yoonki/BAU/)]
 
 **👋 Welcome to Simple and Easy-to-Use Codebase for Domain Generalizable Person Re-ID!**
 
