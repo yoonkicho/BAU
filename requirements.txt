@@ -1,0 +1,11 @@
+# requirements.txt
+numpy
+torch==1.12.1 # your torch version here (ex. torch==1.12.1)
+torchvision==0.13.1 # your torchvision version here (ex.torchvision==0.13.1)
+six
+h5py
+Pillow
+scipy
+scikit-learn
+metric-learn
+faiss-gpu

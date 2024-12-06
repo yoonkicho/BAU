@@ -5,6 +5,7 @@ Official PyTorch implementation of Generalizable Person Re-identification via Ba
 ***Code will be made available before NeurIPS. Stay tuned!***
 
 ## Updates
+- [12/2024] Codes are released.
 - [09/2024] BAU has been accepted to NeurIPS 2024.
 
 ## Overview
